@@ -1,6 +1,7 @@
 # EDA-Practice
 
 💡 Summary EDA Checklist
+
 Step	Description
 1	Understand data shape and types
 2	Handle missing values
